@@ -1,0 +1,43 @@
+/* * {
+    background-color: aqua;
+} */
+
+* {
+    font-family: 'Comfortaa', sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    color: violet;
+    background-color: azure;
+    font-size: 64px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: brown;
+    background-color: blue;
+}
+
+#p1 {
+    color:white;
+    background-color: crimson;
+    background-image: none;
+}
+
+.lorem {
+    color: #fabbe1;
+    background-image:linear-gradient(to right, #090979, #00d4ff
+    );
+}
+
+div {
+    text-align: start;
+    background-image: conic-gradient(red 0deg, red 90deg, yellow 90deg, yellow 180deg, green 180deg, green 270deg, blue 270deg);
+    border-radius: 50%;
+    border: 5px solid black;
+    margin: 50px;
+    padding: 100px;
+}
